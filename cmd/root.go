@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/karuppiah7890/go-jsonschema-generator"
+	"github.com/knechtionscoding/go-jsonschema-generator"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v2"
 )
